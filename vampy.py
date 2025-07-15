@@ -15,7 +15,7 @@ Evolve_art = """\x1b[38;5;196m]▄▄▄▖▄   ▄  ▄▄▄  █ ▄   ▄ �
 ▐▛▀▀▘ ▀▄▀  ▀▄▄▄▀ █  ▀▄▀  ▝▚▄▄▖
 ▐▙▄▄▖            █            
                               
-MADE BY Billu Badmos .GG/AFKOP 
+MADE BY VAMPIRE .GG/AFKOP 
 \x1b[0m"""
 options = """
  ╔╦╝
