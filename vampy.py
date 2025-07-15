@@ -608,7 +608,7 @@ if __name__ == "__main__":
         os.system("title Evolve Nuker ^| Authentication & mode con: cols=95 lines=25")
         token = input("{}({}Evolve{}) Bot Token{}:{} ".format("\x1b[0m", "\x1b[38;5;196m", "\x1b[0m", "\x1b[38;5;196m", "\x1b[0m"))
         guildid = input("{}({}Evolve{}) Guild ID{}:{} ".format("\x1b[0m", "\x1b[38;5;196m", "\x1b[0m", "\x1b[38;5;196m", "\x1b[0m"))
-        __client__.run(token, bot=True)
+        __client__.run(token)
     except Exception as e:
         print("{}({}-{}) {}".format("\x1b[0m", "\x1b[38;5;196m", "\x1b[0m", e))
         time.sleep(1.5)
